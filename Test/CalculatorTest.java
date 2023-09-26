@@ -94,4 +94,11 @@ public class CalculatorTest {
         System.setIn(inputStream);
         System.setOut(null);
     }
+
+    //метод который принимает сумму покупки и процент скидки и возвращает сумму с учетом скидки:
+    @Test
+    void testCalculatingDiscount(){
+        assertThat(Calculator.calculatingDiscount(100, 30)).isEqualTo(70);
+    }
+
 }

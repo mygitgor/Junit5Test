@@ -17,3 +17,13 @@ S
 #src/seminars/second/model/Shop.java,f\d\fd8387cf59d9c3174eeab9ad27f9522353b800cd
 `
 0src/seminars/second/model/TextUserInterface.java,0\c\0c2d9929532c7578eabd0ade07d9dbf0b1596501
+P
+ src/seminars/second/hw/Main.java,5\4\54a2e888890271493e15d69476327bfb818b002c
+g
+7Test/seminars/second/simple_shopping_cart/ShopTest.java,9\5\956f2d2b3bf78e90c0e68c896073160a8d0b1e31
+V
+&src/seminars/second/hw/Motorcycle.java,4\2\42fc0b405aa8c1a03c502926f939baf52eaad1b8
+X
+(Test/seminars/second/hw/VehicleTest.java,8\8\8834eea7ae6f90d88472104fbbdd7017eec00108
+H
+Test/CalculatorTest.java,d\a\daa95e44708515ebbb12f47692db6ca6f7b0739f
