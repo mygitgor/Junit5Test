@@ -27,3 +27,17 @@ X
 (Test/seminars/second/hw/VehicleTest.java,8\8\8834eea7ae6f90d88472104fbbdd7017eec00108
 H
 Test/CalculatorTest.java,d\a\daa95e44708515ebbb12f47692db6ca6f7b0739f
+Y
+)src/seminars/first/CalculatorTestDep.java,8\1\81fca8e1286a9f75b38793204d795d5c105bdabc
+X
+(src/seminars/first/model/Calculator.java,e\9\e9c4127a656cecb6f0b2962ae912c2f12e97ab0d
+\
+,src/seminars/third/coverage/SomeService.java,5\1\5103905003d2a301d64b663a56d85be82995be75
+Q
+!src/seminars/third/hw/MainHW.java,5\5\55e967d1561ef49b513e15e19cfc9d17104f3b65
+Y
+)src/seminars/third/tdd/MoodAnalayser.java,0\3\03254f818997394b782dae89e4de2ac10f9b1bd2
+P
+ src/seminars/third/tdd/User.java,3\a\3a9f5a3dfe29901bf8ab19c4889d790a8c9ffb5e
+Z
+*src/seminars/third/tdd/UserRepository.java,4\2\42eeb3bbc445f6e67ed2e92f1e5aa5995f164dcc
