@@ -1,0 +1,33 @@
+
+L	java:S106*"+Replace this use of System.out by a logger.(±Ãõüÿÿÿÿ8á•Š¯1
+]	java:S125A"<This block of commented-out lines of code should be removed.(»•ûÿÿÿÿ8Œá•Š¯1
+]	java:S125s"<This block of commented-out lines of code should be removed.(»•ûÿÿÿÿ8Œá•Š¯1
+^	java:S125›"<This block of commented-out lines of code should be removed.(»•ûÿÿÿÿ8Œá•Š¯1
+^	java:S125À"<This block of commented-out lines of code should be removed.(»•ûÿÿÿÿ8á•Š¯1
+X
+java:S1128"6Remove this unused import 'seminars.fourth.book.Book'.(»ÍªÖøÿÿÿÿ8Áæš¬¯1
+b
+java:S1128"@Remove this unused import 'seminars.fourth.book.BookRepository'.(“è–áúÿÿÿÿ8Åæš¬¯1
+Z
+java:S1128"=Remove this unused import 'seminars.fourth.book.BookService'.(Íàú¾8Åæš¬¯1
+e
+java:S1128	"HRemove this unused import 'seminars.fourth.book.InMemoryBookRepository'.(Ğ¥Ç„8Çæš¬¯1
+e
+java:S1128
+"CRemove this unused import 'seminars.fourth.database.DataProcessor'.(¾êª×şÿÿÿÿ8Èæš¬¯1
+[
+java:S1128">Remove this unused import 'seminars.fourth.database.Database'.(¬¨°8Èæš¬¯1
+c
+java:S1128"ARemove this unused import 'seminars.fourth.hotel.BookingService'.(ß¦äúÿÿÿÿ8Êæš¬¯1
+\
+java:S1128"?Remove this unused import 'seminars.fourth.hotel.HotelService'.(¦ÈÖÿ8Ëæš¬¯1
+e
+java:S1128"CRemove this unused import 'seminars.fourth.message.MessageService'.(Ò§Şöúÿÿÿÿ8Ìæš¬¯1
+j
+java:S1128"HRemove this unused import 'seminars.fourth.message.NotificationService'.(äé÷ıÿÿÿÿ8Ìæš¬¯1
+@
+java:S1128"Remove this duplicated import.(Ù‚¹øÿÿÿÿ8Íæš¬¯1
+@
+java:S1128"Remove this duplicated import.(èŸ§œûÿÿÿÿ8Íæš¬¯1
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8Ïæš¬¯1
